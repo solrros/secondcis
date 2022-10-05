@@ -1,3 +1,26 @@
 .welcome {
     color: pink;
+    padding-top: 3%;
 }
+
+.nav-link {
+    
+    font: arial;
+    font-size: x-large;
+    font-weight: 500;
+    color: pink;
+  
+}
+
+.container
+{
+    background-color: #E7E0D3;
+}
+#selfie {
+
+    padding-top: 3%;
+   
+}
+
+
+
